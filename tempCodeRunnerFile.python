@@ -1,0 +1,21 @@
+#area of triangle
+base = 3
+height = 6
+area = 1/2*base*height
+print(area)
+
+#odd or even
+n = int(input("enter a num"))
+if n%2==0:
+    print("even")
+else:
+    print("odd")
+
+#find positive , negative or zero??   
+num = int(input("enter a number"))
+if num<0:
+    print("negative num")
+elif num>0:
+    print("positive num")
+else:
+    print("zero")             
