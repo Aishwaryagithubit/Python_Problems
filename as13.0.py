@@ -12,6 +12,7 @@ if result == 'Player 1':
 elif result == 'Player 2':
     print("Player 2 is winner!!")
 else:
-    print("It's a tie!!")    
+    print("It's a tie!!!!")    
+
 
 
