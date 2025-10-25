@@ -1,5 +1,5 @@
 def determine_winner(player1, player2):
-    winning_comb = {("rock","scissor"): "player 1", ("paper,rock"):"player 2", ("scissors","paper"):"player 1",("scissors","rock"):"player 2",("rock", "paper"):"Player 2",
+    winning_comb = {("rock","scissors"): "player 1", ("paper,rock"):"player 2", ("scissors","paper"):"player 1",("scissors","rock"):"player 2",("rock", "paper"):"Player 2",
         ("paper","scissors"): "Player 2",("rock", "rock"):"Tie",("paper","paper"):"Tie",("scissors","scissors"): "Tie"}
     return winning_comb.get((player1, player2),"Invalid")
 
@@ -13,4 +13,5 @@ elif result == 'Player 2':
     print("Player 2 is winner!!")
 else:
     print("It's a tie!!")    
+
 
