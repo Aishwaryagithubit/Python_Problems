@@ -5,9 +5,10 @@ def list1(student_username,username):
       output.append(email_address)
     return output
 
+student_usernames = ["ksmith", "rsouza", "lgarber", "aghods", "shassan", "proy"]
 
-student_usernames = ["ksmith", "rsouza", "lgarber", "aghods", "shassan", "proy"]
 username = "thebritishcollege"
 
 output = list1(student_usernames,username)
 print(output)
+
