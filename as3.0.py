@@ -4,5 +4,6 @@ def num(a):
     else:
      print ("odd number")
 
-number = 5
+number = 90
 num(number)
+
