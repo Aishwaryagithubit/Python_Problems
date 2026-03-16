@@ -1,4 +1,4 @@
-num = int(input("enter any number:"))
+num = int(input("Enter any number:"))
 if (num%5==0 and num%3==0):
        print("FizzBuzz")
 elif (num%5==0):
