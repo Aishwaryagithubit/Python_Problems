@@ -1,0 +1,16 @@
+id,fullname,gender,address,contact,email,faculty,section,Shift,passsword
+501,Roy Darwin,Male,Bhaktapur,9812345608,Rd@gmail.com,IT,A,morning,1234
+502,Mart Michael,Male,Kathmandu,9812345609,Mm@gmail.com,IT,B,day,5678
+503,Oshan Mathew,Male,Rajbiraj,9812345607,Om@gmail.com,Python,C,morning,1112
+504,Danny Lewis,Female,Lumbini,9812345606,Dl@gmail.com,Python,D,morning,1314
+505,John Desouza,Male,Janakpur,9812345605,Jd@gmail.com,C++,E,day,1516
+506,Siya Ojha,Female,Lalitpur,9812345604,So@gmail.com,C++,A,day,1718
+507,Ram Dahal,Male,Patan,9812345603,Rd@gmail.com,C++,B,morning,1920
+508,Madhav poudel,Male,Kathmandu,9812345602,Mm@gmail.com,Python,B,day,2122
+509,Ritu Shah,Female,Kathmandu,9812345601,Rs@gmail.com,English,D,day,2324
+510,Joy Paul,Female,Lalitpur,9812345600,Jp@gmail.com,English,E,day,2526
+511,shyam Dhalal,Male,Lumbini,9812345610,shyam Dd@gmail.com,IT,C,morning,2728
+512,Peter Lee,Male,Bhaktapur,9812345612,Pl@gmail.com,IT,D,day,2930
+513,Mary Khadka,Female,Janakpur,9812345613,Mk@gmail.com,Multimedia,A,day,3132
+514,Den louis,Male,Kathmandu,9812345614,Dd@gmail.com,Multimedia,B,morning,3334
+515,Jenny Kim,Female,Bhaktapur,9812467670,Jk@gmail.com,Python,A,day,3536
